@@ -17,3 +17,8 @@ conda env create -f environment.yml
 ```
 conda activate battleship
 ```
+
+5. Run the game:
+```
+python ./main.py
+```
